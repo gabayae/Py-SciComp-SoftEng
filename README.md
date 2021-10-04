@@ -9,15 +9,13 @@
 
 
 This course seeks to teach you the basics of professional software development in the context of science. 
-It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 16th November 2020 to 4th October 2020.
+It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 11th October 2021 to 29th October 2021.
 
 The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on Python 3 only.
 
 
 
-The team: 1 course – 4 centers-- Cameroon, Ghana, Senegal and South Africa.
-
-[Official webpage for this course](python.aims.ac.za)
+The team: 1 course – 4 centers-- Cameroon, Ghana, Senegal and South Africa. [`Official webpage for this course`](python.aims.ac.za)
 
 
 Amazing ressources can also be find at: 
@@ -33,9 +31,9 @@ Amazing ressources can also be find at:
 
  ## The subjects we will cover include:
 
-      * Basic Linux commands (The Shell - BASH);
+      * Basic Linux commands (The Shell - BASH), see this [repo](https://github.com/gabayae/friendly-shell-lesson);
       * Programming and Computer Science Basics - Python;
-      * Version Control - git.
+      * Version Control - git & gitHub.
     
  # Material Provenance
  The materials presented here come may have come originally from different sources, which include mainly
@@ -62,7 +60,7 @@ You can either open an issue to provide feedback or point out errors, or you can
  
  
  # Additionnal Material
- I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available.
+ I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available. For the French-speaker, the [In2Py](https://gabayae.github.io/bases_de_programmation_python/) and [Atelier-3P](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/) websites could be useful.
  
  
  
