@@ -60,7 +60,11 @@ You can either open an issue to provide feedback or point out errors, or you can
  
  
  # Additionnal Material
- I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available. For the French-speaker, the [In2Py](https://gabayae.github.io/bases_de_programmation_python/) and [Atelier-3P](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/) websites could be useful.
+ I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available. 
+ 
+ ## Note pour les francophones
+ Pour les francophones, les sites web [`In2Py`](https://gabayae.github.io/bases_de_programmation_python/) et [`Atelier-3P`](https://ai-technipreneurs.github.io/site-officiel-atelier-3-P/) peuvent être utiles.
+
  
  
  
