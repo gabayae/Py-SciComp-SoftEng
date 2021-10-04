@@ -84,5 +84,5 @@ You can either open an issue to provide feedback or point out errors, or you can
    5. Create a [Pull Request](https://help.github.com/en/articles/creating-a-pull-request) from your branch into the master branch.
  
  
-### Instructor: [Yaé Ulrich Gaba](https://github.com/gabayae).
+#### Instructor: [Yaé Ulrich Gaba](https://github.com/gabayae).
 
