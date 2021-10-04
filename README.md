@@ -1,5 +1,5 @@
 <center>
-    <a href="https://www.aims-senegal.org/" ><img src="aimssn_logo.png" style="float:center; max-width: 600px; display: inline" alt="IMSP"/> </a>
+    <a href="https://www.aims-senegal.org/" ><img src="aimssn_logo.png" style="float:center; max-width: 600px; display: inline" alt="AINS-SN"/> </a>
     </center>
 
 ## <h2 align="center">                   `Python for Scientific Computing and Software Engineering`        </h2>
