@@ -46,8 +46,24 @@ Amazing ressources can also be find at:
       at the African Institute for Mathematical Sciences (AIMS), center of South Africa.
  
  
+ #### Detailed outline
+
+| Course Theme | Description | Learning Objectives
+|:-------------|:------------------|:------|
+| Python & Data Type | Variables, Integer, String, etc. | Identify the different data types in Python and understand the errors that result from them | Operators
+| Operators|Relational operators, incrementing, decrementing, if/sinon, etc. | Use the right relational operator, translate a text problem into an if/sinon with the right operator, understand the errors that result from this.
+| Practice (data types and operators) | Exercises with various levels of difficulty | Structuring problem solving, drafting a solution, debugging | Loops
+| How to choose the right loop | Data structures
+| Data structures, lists, arrays, dictionaries, iterating on different types of structures, converting types
+| Practice (loops and data structures)| Exercises with various levels of difficulty|Structuring problem solving, drafting a solution, debugging |
+
+T
+ 
+ 
  # Asking Questions
- Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).
+  * Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).
+
+  * For informal discussions and exchange during the course you are kindly invited to join our [Slack Channel](https://join.slack.com/t/init2py/shared_invite/zt-wquuxrxg-WkqFb4XZ6Qbtsw3Hp9FbHw).
  
  # You want to Contribute?
  Contributions to this project are very welcome!Some great ways to help out are to:
