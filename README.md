@@ -35,7 +35,7 @@ Amazing ressources can also be find at:
       * Programming and Computer Science Basics - Python;
       * Version Control - git & gitHub.
     
- # Material Provenance
+ ## Material Provenance
  The materials presented here come may have come originally from different sources, which include mainly
  
      -The Software Carpentry (swc-) lessons;
@@ -71,12 +71,10 @@ Amazing ressources can also be find at:
           * proofread;
           * add reading comprehension exercises to existing sections;
           * provide general feedback about the organization of the website, the consistency material, etc. ;
- * Please feel free to point out mistakes about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).     
-       
-You can either open an issue to provide feedback or point out errors, or you can create [pull request](https://help.github.com/en/articles/creating-a-pull-request).    
+ * Please feel free to point out mistakes about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues). You can either open an issue to provide feedback or point out errors, or you can create [pull request](https://help.github.com/en/articles/creating-a-pull-request).    
  
  
- # Additionnal Material
+ ## Additionnal Material
  I have not included it in the material but [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) is a nice Markdown "cheat sheet" for looking up how to make tables, code-blocks, etc., in Markdown. A [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/) is also available. 
  
  ## Note pour les francophones
@@ -86,7 +84,7 @@ You can either open an issue to provide feedback or point out errors, or you can
  
  
  
- # Making a Pull Request
+ ### Making a Pull Request
  If you want to submit a change to some of the content (e.g. correcting typos), do the following:
  
    1. Clone this repository;
