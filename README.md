@@ -48,16 +48,16 @@ Amazing ressources can also be find at:
  
  #### Detailed outline
 
-| Course Theme | Description | Learning Objectives
+| Week 0 | Week 1 | Week 2
 |:-------------|:------------------|:------|
-| Python & Data Type | Variables, Integer, String, etc. | Identify the different data types in Python and understand the errors that result from them | Operators
-| Operators|Relational operators, incrementing, decrementing, if/sinon, etc. | Use the right relational operator, translate a text problem into an if/sinon with the right operator, understand the errors that result from this.
-| Practice (data types and operators) | Exercises with various levels of difficulty | Structuring problem solving, drafting a solution, debugging | Loops
-| How to choose the right loop | Data structures
-| Data structures, lists, arrays, dictionaries, iterating on different types of structures, converting types
-| Practice (loops and data structures)| Exercises with various levels of difficulty|Structuring problem solving, drafting a solution, debugging |
+| `Day 00` [Python setup and environments](https://python.aims.ac.za/pages/setup.html) & [ Basic operations and types](https://python.aims.ac.za/pages/basic_ops_types.html)| `Day 10` [Conditionals, I: if, else and more](https://python.aims.ac.za/pages/conditionals.html) & [ Arrays, I, and indexing: 1D data](https://python.aims.ac.za/pages/arrays.html) | `Day 20` [Be careful: copying arrays, lists (and more)](https://python.aims.ac.za/pages/cp_mutable_objs.html) & [Functions, IIa: Definition and arguments](https://python.aims.ac.za/pages/functions00.html) | Operators
+| `Day 01` [ Assignment, variables and in-place operators](https://python.aims.ac.za/pages/assignment_var.html) & [Strings, comments and print: Help humans program](https://python.aims.ac.za/pages/comm_str_print.html) | `Day 11` [ Plotting, I: View 1D array(s)](https://python.aims.ac.za/pages/plot.html) & [ Loops, I: for](https://python.aims.ac.za/pages/loop_for.html) | `Day 21` [Functions, IIb: Scope of variables](https://python.aims.ac.za/pages/functions01.html) & [ Arrays, II](https://python.aims.ac.za/pages/arrays_02.html)
+| `Day 02` [ User input](https://python.aims.ac.za/pages/user_input.html) & [ Modules, I: Expand functionality](https://python.aims.ac.za/pages/modules.html) | `Day 12` [ Methods, I](https://python.aims.ac.za/pages/methods.html) & [Complex type, I](https://python.aims.ac.za/pages/complex.html) | `Day 22` [ Modules, II: Make and import your own](https://python.aims.ac.za/pages/importing.html) & [Reading and writing files](https://python.aims.ac.za/pages/file_io.html)| Loops
+| `Day 03` [Functions, I: Read help docs and use](https://python.aims.ac.za/pages/helpdocs.html) & [ Bools and Boolean expressions](https://python.aims.ac.za/pages/boolean_expr.html)| `Day 13` [ Strings, II, and formatting](https://python.aims.ac.za/pages/str_and_format.html) & [ Lists, I: storing more stuff](https://python.aims.ac.za/pages/list_and_list_comprehension.html) | `Day 23`[ Conditionals, II: Nesting](https://python.aims.ac.za/pages/conditionals_02.html) & [ Loops, II: while, break, continue](https://python.aims.ac.za/pages/loop_while_break_continue.html) |
+| `Day 04` **REVISION**| `Day 14` **REVISION** | `Day 24` **REVISION** |
 
-T
+
+
  
  
  # Asking Questions
