@@ -11,11 +11,11 @@
 This course seeks to teach you the basics of professional software development in the context of science. 
 It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 11th October 2021 to 29th October 2021.
 
-The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on Python 3 only.
+The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on **[`Python 3`](https://www.python.org/downloads/)** only.
 
 
 
-The team: 1 course – 4 centers-- Cameroon, Ghana, Senegal and South Africa. [`Official webpage for this course`](python.aims.ac.za)
+The team: 1 course – 4 centers-- Cameroon, Ghana, Senegal and South Africa. **[`Official webpage for this course`](python.aims.ac.za)**
 
 
 Amazing ressources can also be find at: 
@@ -60,17 +60,18 @@ Amazing ressources can also be find at:
 
  
  
- # Asking Questions
-  * Please feel free to post questions (or point out mistakes) about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).
-
-  * For informal discussions and exchange during the course you are kindly invited to join our [Slack Channel](https://join.slack.com/t/init2py/shared_invite/zt-wquuxrxg-WkqFb4XZ6Qbtsw3Hp9FbHw).
+ ## Questions & Discussions
+  * Please feel free to ask questions.
+  
+  * For informal discussions and exchange during the course you are kindly invited to join our **[`Slack Channel`](https://join.slack.com/t/init2py/shared_invite/zt-wquuxrxg-WkqFb4XZ6Qbtsw3Hp9FbHw)**.
  
- # You want to Contribute?
+ ## You want to Contribute ?
  Contributions to this project are very welcome!Some great ways to help out are to:
  
           * proofread;
           * add reading comprehension exercises to existing sections;
           * provide general feedback about the organization of the website, the consistency material, etc. ;
+ * Please feel free to point out mistakes about the reading by opening a [GitHub issue](https://github.com/gabayae/scientific-computing/issues).     
        
 You can either open an issue to provide feedback or point out errors, or you can create [pull request](https://help.github.com/en/articles/creating-a-pull-request).    
  
