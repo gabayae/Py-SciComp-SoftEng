@@ -47,7 +47,7 @@ Amazing ressources can also be find at:
  
  ### Useful to know but not mandatory
  
- Although it is not required to know about [`Linux command prompt`](https://python.aims.ac.za/pages/notations.html#linux-command-line-prompt), a review **[`the following course`](https://github.com/gabayae/friendly-shell-lesson)** will ease your journey. It is also highly recommanded to have a **[`GitHub Account`](https://github.com/join)**
+ Although it is not required to know about [`Linux command prompt`](https://python.aims.ac.za/pages/notations.html#linux-command-line-prompt), a review of **[`the following course`](https://github.com/gabayae/friendly-shell-lesson)** will ease your journey. It is also highly recommanded/required to have a **[`GitHub Account`](https://github.com/join)** for you to take advantage of some features. 
  
  ### Detailed outline
 
