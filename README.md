@@ -9,7 +9,7 @@
 
 
 This course seeks to teach you the basics of professional software development in the context of science. 
-It is presented at the African Institute for Mathematical Sciences (AIMS), center of Senegal, 11th October 2021 to 29th October 2021.
+It is presented at the **[`African Institute for Mathematical Sciences (AIMS), center of Senegal`](https://aims-senegal.org/)**, 11th October 2021 to 29th October 2021.
 
 The material is meant to be used on a university course (at any level where the material feels appropriate, depending on your background!), but can also be used for self-study. We concentrate on **[`Python 3`](https://www.python.org/downloads/)** only.
 
