@@ -31,7 +31,7 @@ Amazing ressources can also be find at:
 
  ## The subjects we will cover include:
 
-      * Basic Linux commands (The Shell - BASH), see this [repo](https://github.com/gabayae/friendly-shell-lesson);
+      * Basic Linux commands (The Shell - BASH);
       * Programming and Computer Science Basics - Python;
       * Version Control - git & gitHub.
     
@@ -45,8 +45,11 @@ Amazing ressources can also be find at:
           *Jordan Masakuna;
       at the African Institute for Mathematical Sciences (AIMS), center of South Africa.
  
+ ### Useful to know but not mandatory
  
- #### Detailed outline
+ Although it is not required to know about [`Linux command prompt`](https://python.aims.ac.za/pages/notations.html#linux-command-line-prompt), a review **[`the following course`](https://github.com/gabayae/friendly-shell-lesson)** will ease your journey. It is also highly recommanded to have a **[`GitHub Account`](https://github.com/join)**
+ 
+ ### Detailed outline
 
 | Week 0 | Week 1 | Week 2
 |:-------------|:------------------|:------|
