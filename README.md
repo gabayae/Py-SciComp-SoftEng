@@ -8,6 +8,9 @@
 
 
 
+
+
+
 This course seeks to teach you the basics of professional software development in the context of science. 
 It is presented at the **[`African Institute for Mathematical Sciences (AIMS), center of Senegal`](https://aims-senegal.org/)**, 11th October 2021 to 29th October 2021.
 
